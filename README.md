@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing Btech CSE from Lovely Professional University<br>
+Just a random fellow developer<br>
 
 
 ## 🌐 Socials:
